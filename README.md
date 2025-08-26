@@ -1,4 +1,4 @@
-# Jogo de Aventura - Heróis
+# Aventuras Épicas
 
 ## Descrição
 Este projeto contém uma classe `Heroi` que representa um herói de uma aventura. 
